@@ -1,3 +1,7 @@
 .env
 .cache
 .venv
+# In kaggle1, we have the original datasets charts.csv
+# too big to be tracked by github
+data/kaggle1
+.DS_Store
