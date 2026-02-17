@@ -26,7 +26,7 @@ Filters the full Kaggle charts dataset down to European countries only.
 
 Loads and merges the raw datasets into a single analysis-ready file:
 
-1. **Import charts** from `kaggle1/charts.csv` and extract the Spotify `track_id` from each URL.
+1. **Import charts** from `data/eu_charts.csv` and extract the Spotify `track_id` from each URL.
 2. **Import tracks & artists** from `kaggle2/`.
 3. **Merge** charts with tracks on `track_id` (inner join to reduce missing audio features).
 4. **Filter** to European countries only.
