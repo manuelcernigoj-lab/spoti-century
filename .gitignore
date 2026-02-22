@@ -2,9 +2,10 @@
 .cache
 .venv
 .DS_Store
-# In kaggle1, we have the original datasets charts.csv
+# In kaggle1 and kaggle2 we have the original datasets charts.csv
 # too big to be tracked by github
 data/kaggle1
+data/kaggle2
 # Derived dataset, too large for LFS — regenerate by running notebooks
 data/eu_charts.csv
 data/eu_charts_with_tracks_data.csv
