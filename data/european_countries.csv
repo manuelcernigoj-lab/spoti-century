@@ -1,3 +1,28 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:228e91be067547f262f90fd88beefb2b5c1e3875143416d9e2a8c9d5d7fd02ac
-size 659
+region,country
+Northern Europe,Denmark
+Northern Europe,Estonia
+Northern Europe,Finland
+Northern Europe,Ireland
+Northern Europe,Latvia
+Northern Europe,Lithuania
+Northern Europe,Sweden
+Western Europe,Austria
+Western Europe,Belgium
+Western Europe,France
+Western Europe,Germany
+Western Europe,Luxembourg
+Western Europe,Netherlands
+Southern Europe,Bulgaria
+Southern Europe,Croatia
+Southern Europe,Cyprus
+Southern Europe,Greece
+Southern Europe,Italy
+Southern Europe,Malta
+Southern Europe,Portugal
+Southern Europe,Slovenia
+Southern Europe,Spain
+Eastern Europe,Czech Republic
+Eastern Europe,Hungary
+Eastern Europe,Poland
+Eastern Europe,Romania
+Eastern Europe,Slovakia
