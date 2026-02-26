@@ -9,3 +9,4 @@ data/kaggle2
 # Derived dataset, too large for LFS — regenerate by running notebooks
 data/*.csv
 !data/european_countries.csv
+data/exports
