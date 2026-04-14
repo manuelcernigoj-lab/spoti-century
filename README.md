@@ -1,4 +1,4 @@
-# SpotifyData
+# spoti-century
 
 Analysis of Spotify chart data across European countries, combining chart rankings with audio features to explore music trends.
 
