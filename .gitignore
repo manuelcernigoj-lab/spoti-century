@@ -2,6 +2,7 @@
 .cache
 .venv
 .DS_Store
+**/__pycache__/
 # In kaggle1 and kaggle2 we have the original datasets charts.csv
 # too big to be tracked by github
 data/kaggle1
