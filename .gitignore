@@ -3,11 +3,9 @@
 .venv
 .DS_Store
 **/__pycache__/
-# In kaggle1 and kaggle2 we have the original datasets charts.csv
+# In kaggle2 we have the original datasets artists.csv and tracks.csv
 # too big to be tracked by github
-data/kaggle1
 data/kaggle2
 # Derived dataset, too large for LFS — regenerate by running notebooks
-data/*.csv
-!data/european_countries.csv
+data/processed
 data/exports
