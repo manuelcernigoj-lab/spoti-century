@@ -35,6 +35,16 @@ PALETTE = {
     'silver'    : '#A0A0A0',   # tertiary neutral
 }
 
+PALETTE_CLUSTERS = [
+    '#1ED760',   # Spotify green
+    '#298F66',   # purple
+    '#35486D',   # salmon / coral
+    '#400073',   # teal-slate
+    '#7F337F',   # warm yellow
+    '#BD678A',   # violet
+    '#FC9A96',   # sky blue
+]
+
 # -- ERA DEFINITIONS --------------------------------------------------------
 # Each tuple: (start_year, end_year, hex_color, label)
 # Applied via axvspan(alpha=0.08) — colors blend across the gradient
